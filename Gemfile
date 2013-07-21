@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'bootstrap-sass'
 gem 'hirb'
 gem 'bcrypt-ruby'
+gem 'bootstrap-will_paginate', '0.0.6'
 
 
 group :assets do
